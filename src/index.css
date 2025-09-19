@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+/* Import Inter font from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
+html {
+	background: #18181b;
+	color: #e5e7eb;
+	font-family: 'Inter', 'Segoe UI', Arial, sans-serif;
+}
